@@ -19,6 +19,8 @@ Communication
 - [Метод McKinsey. Использование техник ведущих стратегических консультантов для решения личных и деловых задач](https://www.litres.ru/book/itan-rasiel/metod-mckinsey-ispolzovanie-tehnik-veduschih-strategicheskih-k-6114199/)
 - [Принцип пирамиды Минто®. Золотые правила мышления, делового письма и устных выступлений](https://www.litres.ru/book/barbara-minto/princip-piramidy-minto-r-zolotye-pravila-myshleniya-delovogo-28288501/)
 - [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
+- [Пиши Сокращай](https://www.litres.ru/book/maksim-ilyahov/pishi-sokraschay-2025-kak-sozdavat-silnyy-tekst-70193008/)
+
 
 Change management
 - [Kotter’s eight-step change model](https://www.open.edu/openlearn/money-business/hybrid-working-change-management/content-section-9.3)

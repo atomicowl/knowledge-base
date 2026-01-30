@@ -14,6 +14,7 @@ Planning
 Structuring
 - [Второй мозг](https://www.litres.ru/book/tyago-forte/sozday-svoy-vtoroy-mozg-kak-postroit-sistemu-poiska-i-organiza-70326325/?ysclid=mkzt17bz9n324594885)
 - [Джедайские техники](https://www.litres.ru/book/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-23590168/)
+- [How to Measure Anything. Finding the Value of Intangibles in Business](https://www.litres.ru/book/douglas-hubbard-w/how-to-measure-anything-finding-the-value-of-intangibles-28301145/)
 
 Communication
 - [Метод McKinsey. Использование техник ведущих стратегических консультантов для решения личных и деловых задач](https://www.litres.ru/book/itan-rasiel/metod-mckinsey-ispolzovanie-tehnik-veduschih-strategicheskih-k-6114199/)

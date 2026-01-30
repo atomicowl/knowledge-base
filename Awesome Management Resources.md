@@ -20,6 +20,10 @@ Communication
 - [Принцип пирамиды Минто®. Золотые правила мышления, делового письма и устных выступлений](https://www.litres.ru/book/barbara-minto/princip-piramidy-minto-r-zolotye-pravila-myshleniya-delovogo-28288501/)
 - [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
 
+Change management
+- [Kotter’s eight-step change model](https://www.open.edu/openlearn/money-business/hybrid-working-change-management/content-section-9.3)
+- [ADKAR](https://www.open.edu/openlearn/money-business/hybrid-working-change-management/content-section-9.4)
+
 People Management
 - [SCARF](https://www.myframework.net/scarf-model/)
 	- [Применение против выгорания](https://habr.com/ru/companies/oleg-bunin/articles/964080/)

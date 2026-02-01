@@ -1,2 +1,3 @@
 
-https://www.amazon.com/Technology-Strategy-Patterns-Architecture/dp/1492040878
+- [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
+- 

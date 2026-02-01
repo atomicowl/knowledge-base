@@ -26,6 +26,7 @@ Planning
 - Tools
 	- [WBS | Work Breakdown Structure](https://kaiten.ru/blog/model-wbs/)
 	- [Network Diagrams | Crirical Path | Reserves](https://www.geeksforgeeks.org/software-engineering/what-is-a-network-diagram-in-project-management/)
+	- Roadmaps
 
 Organization
 - [Второй мозг](https://www.litres.ru/book/tyago-forte/sozday-svoy-vtoroy-mozg-kak-postroit-sistemu-poiska-i-organiza-70326325/?ysclid=mkzt17bz9n324594885)
@@ -34,6 +35,9 @@ Organization
 - [Team Topologies](https://teamtopologies.com/book)
 - Persona Mapping, User Story Mapping
 - ITSM
+- Technical Debt
+	- [How to get technical debt on the roadmap](https://www.infoq.com/articles/getting-tech-debt-on-roadmap/)
+	- [There is no tech debt, only improvement strategy](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 
 Coordination
 - Kick-off
